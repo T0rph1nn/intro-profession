@@ -1,2 +1,4 @@
-requests
+langchain-gigachat
+pandas
 python-dotenv
+requests
